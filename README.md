@@ -1,2 +1,24 @@
-# Divvy_Bike_Share_Analysis
-Google Data Analytics Capstone Project: Analyzing 2019 and 2020 Cyclistic Bike Data
+# Cyclistic Bike-Shara Analysis
+Google Data Analytics Capstone Project: Analyzing Q1 2019 and Q1 2020 public bike share data for Cyclistic.
+
+## Business Task
+Determine how **annual members** and **casual riders** use Cyclistic bikes differently in order to support Cyclistic/s goal of converting casual riders into members.
+
+## Tools Used
+**RStudio**: Data cleaning, analysis, and visualization
+**Tidyverse**, **ggplot2**, **dplyr**
+**Tableau**
+**Excel**, **Google Sheets**
+**GitHub**: version control and portfolio sharing
+
+## Process Overview
+Follwing the six steps of the data analysis process:
+1. **Ask** Defined the business task and key question
+2. **Prepare** Locate the 2019 and 2020 data and verify its integrity
+3. **Process** Cleaned, filtered, and combined the data into one datasheet
+4. **Analyze** Compared ride duration, time of day, day of week differinciated by user type
+5. **Share** Created visualizations to communicate key insights
+6. **Act** Suggested data driven recommendations for marketing strategy
+
+## Key Findings
+**Ride Duration**: Casual riders take longer rides on average
