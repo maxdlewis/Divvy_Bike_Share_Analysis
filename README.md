@@ -2,7 +2,7 @@
 Google Data Analytics Capstone Project: Analyzing Q1 2019 and Q1 2020 public bike share data for Cyclistic, a fictional company used by Coursera.
 
 ## Business Task
-Determine how **annual members** and **casual riders** use Cyclistic bikes differently in order to support Cyclistic/s goal of converting casual riders into members.
+Determine how **annual members** and **casual riders** use Cyclistic bikes differently.
 
 ## Tools Used
 **RStudio**: Data cleaning, analysis, and visualization
