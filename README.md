@@ -24,6 +24,6 @@ For this capstone project, I followed the 6 steps of the data analysis process.
 ### 1. Average Ride Length by Rider Type and Day of Week
 Casual riders take **longer rides**, especially on Saturdays and Sundays.
 Annual members take **shorter, more consistent rides**, with slight variations depending on the day.
-![Average Ride Length](Visuals/average_ride_duration)
+![Average Ride Length](Visuals/average_ride_duration.png)
 
 
