@@ -12,13 +12,18 @@ Determine how **annual members** and **casual riders** use Cyclistic bikes diffe
 **GitHub**: version control and portfolio sharing
 
 ## Process Overview
-Follwing the six steps of the data analysis process: 
-1. **Ask** Defined the business task and key question: The business task is to design a strategy to convert casual riders into annual members. I was assigned the question of how do annual members and casual riders use the bikes differently.
-2. **Prepare** Locate the 2019 and 2020 data and verify its integrity
-3. **Process** Cleaned, filtered, and combined the data into one datasheet
-4. **Analyze** Compared ride duration, time of day, day of week differinciated by user type
-5. **Share** Created visualizations to communicate key insights
-6. **Act** Suggested data driven recommendations for marketing strategy
+For this capstone project, I followed the 6 steps of the data analysis process. 
+1. **Ask** The business task is to design a strategy to convert casual riders into annual members. I was assigned the question of how do annual members and casual riders use the bikes differently.
+2. **Prepare** I located the 2019 and 2020 ride data and verified its integrity.
+3. **Process** Cleaned, filtered, and combined the data into one datasheet using a combination of Excel and RStudio.
+4. **Analyze** Compared the average ride duration and total number of rides differenciated by the rider type and day of the week.
+5. **Share** Created visualizations to communicate key insights derived from the analyze step.
+6. **Act** Suggested data driven recommendations for marketing strategy utilizing the ..........
 
 ## Key Findings
-**Ride Duration**: Casual riders take longer rides on average
+### 1. Average Ride Length by Rider Type and Day of Week
+Casual riders take **longer rides**, especially on Saturdays and Sundays.
+Annual members take **shorter, more consistent rides**, with slight variations depending on the day.
+![Average Ride Length](Visuals/average_ride_duration)
+
+
