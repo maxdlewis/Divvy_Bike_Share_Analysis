@@ -26,4 +26,4 @@ Casual riders take **longer rides**, especially on Saturdays and Sundays.
 Annual members take **shorter, more consistent rides**, with slight variations depending on the day.
 ![Average Ride Length](Visuals/average_ride_duration.png)
 
-
+### 2. Top 3 Start Stations by Rider Type and Day of Week (Filtered by Year)
