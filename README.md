@@ -18,4 +18,5 @@ I also found that annual members ride for **shorter, but more consistent duratio
 ### 2. Top 3 Start Stations by Rider Type and Day of Week (Filtered by Year)
 
 ## Summary / Recommendations
-1. Revisit the entire 
+1. Given that these three stations (........) have the highest number of starts by casual riders, I would recommend running a membership discount campagain, but only if they sign up from these locations.
+2. Cyclistic could offer flexible membership prices to help incintivize the switch from casual riders to annual members. For example, there could be a weekend only membership that is offered at a much cheaper rate than a regular annual membership. Another flexible membership price could be offering a seasonal membership price, allowing for riders to only pay for a period of 3 months at a time.
